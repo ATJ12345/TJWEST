@@ -13,9 +13,6 @@
   </li>
 </ul>
 
-
-
-
 # WELCOME TO MY PAGE                                      
       NAME : AHMED TEJAN JALLOH
       EMAIL : ahmedtejanjalloh2017@gmail.com
